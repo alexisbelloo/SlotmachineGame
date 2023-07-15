@@ -1,3 +1,5 @@
+# Credit to Tech With Tim on Youtube for massive help on this project
+
 import random
 
 # max and min amounts
